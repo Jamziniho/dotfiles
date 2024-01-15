@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jamalabubalari@gmail.com
+	name = Jamal Abubakari
